@@ -1,10 +1,8 @@
-=================
-= RAD Sequencer =
-=================
+h1. RAD Sequencer
 
 RAD (Ruby Arduino Development, though the sequencer is pretty rad too)
 
-Note: Currently in the process of moving over to RAD
+_Note: Currently in the process of moving over to RAD_
 
 
 An Arduino-based digital MIDI step sequencer.
@@ -14,13 +12,13 @@ An Arduino-based digital MIDI step sequencer.
 * The third row is measure based global transposition
 
 h2. Media
-* YouTube video: http://youtube.com/watch?v=1QxMHJvXYyU
-* Flickr set: http://flickr.com/photos/beamercola/sets/72157604225735849/
+* "YouTube video":http://youtube.com/watch?v=1QxMHJvXYyU
+* "Flickr set":http://flickr.com/photos/beamercola/sets/72157604225735849/
 
 h2. Related articles
-* Make Magazine: http://blog.makezine.com/archive/2008/03/arduino_midi_sequencer.html
-* Matrix Synth: http://matrixsynth.blogspot.com/2008/03/arduino-sequencer-first-prototype.html
-* ISO50: http://blog.iso50.com/2008/03/25/beamer-arduino/
+* "Make Magazine":http://blog.makezine.com/archive/2008/03/arduino_midi_sequencer.html
+* "Matrix Synth":http://matrixsynth.blogspot.com/2008/03/arduino-sequencer-first-prototype.html
+* "ISO50":http://blog.iso50.com/2008/03/25/beamer-arduino/
 
 h2. Future development
 * Adding pots on both sides of each row allowing you to trim the left or right side of the sequence
