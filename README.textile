@@ -4,6 +4,7 @@ RAD (Ruby Arduino Development, though the sequencer is pretty rad too)
 
 _Note: Currently in the process of moving over to RAD_
 
+!http://farm3.static.flickr.com/2234/2356407919_dc29216606.jpg!
 
 An Arduino-based digital MIDI step sequencer.
 
