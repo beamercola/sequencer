@@ -138,3 +138,10 @@ div#content div#right li {
   float: left;
   width: 200px;
 }
+
+.fork {
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
