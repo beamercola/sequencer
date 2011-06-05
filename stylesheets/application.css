@@ -1,0 +1,140 @@
+body {
+  background-image: url(../images/bg.png);
+  font-family: 'Droid Sans', helvetica, arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+img {
+  border-width: 0;
+  vertical-align: top;
+}
+
+a {
+  color: #00B3D4;
+  text-decoration: none;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1,h2,h3 {
+  font-family: 'Arvo', arial, serif;
+  text-shadow: #c8c0b5 0 3px 0;
+}
+
+h1 {
+  font-size: 36px;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h4 {
+  font-size: 16px;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  font-size: 14px;
+}
+
+.clear {
+  clear: both;
+  font-size: 0;
+  line-height: 0;
+  height: 0;
+}
+
+div#main {
+  border-top: 6px solid #323232;
+  color: #675950;
+  text-align: center;
+}
+
+div#head {
+  background-image: url(../images/bg_head.png);
+  padding-top: 60px;
+}
+
+div#head .image {
+  background-image: url(../images/transparent_black.png);
+  display: inline-block;
+  margin: 0 auto;
+  padding: 10px;
+  width: 800px;
+}
+
+div#content {
+  background-image: url(../images/bg.png);
+  width: 820px;
+  margin: 0 auto;
+  padding: 20px 0 100px 0;
+  text-align: left;
+}
+
+div#content div#left {
+  float: left;
+  margin-right: 30px;
+  width: 320px;
+}
+
+div#content div#left .section {
+  background-image: url(../images/transparent_white.png);
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+div#content div#left .profile {
+  font-size: 12px;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -o-border-radius: 6px;
+}
+
+div#content div#left .profile img {
+  height: 100px;
+  width: 100px;
+}
+
+div#content div#left .profile dl {
+  margin: 0;
+  padding: 0;
+}
+
+div#content div#left .profile dl dt {
+  float: left;
+}
+
+div#content div#left .profile dl dd {
+  margin-left: 110px;
+}
+
+div#content div#left .profile ul {
+  margin: 10px 0 0 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+div#content div#right {
+  float: left;
+  width: 450px;
+}
+
+div#content div#right .section {
+  margin-bottom: 40px;
+}
+
+div#content div#right li {
+  float: left;
+  width: 200px;
+}
