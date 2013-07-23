@@ -1,6 +1,6 @@
 h1. Digital MIDI Step Sequencer
 
-!http://farm3.static.flickr.com/2234/2356407919_dc29216606.jpg!
+!http://beamercola.github.io/sequencer/images/seq_lg.png!
 
 An Arduino-based digital MIDI step sequencer.
 
